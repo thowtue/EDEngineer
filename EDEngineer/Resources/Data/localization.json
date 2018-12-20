@@ -4142,7 +4142,7 @@
       "es": "Bodega de carga resistente a corrosión (2D y 4D)",
       "pt": "Estante de Carga Anti-Corrosiva (2D e 4D)",
       "de": "Korrosionsresistentes Frachtegtell (2D and 4D)",
-      "fr": null,
+      "fr": "Compartiment de Soute Résistant à la Corrosion",
       "ru": "Коррозийно-устойчивый грузовой стеллаж (2D и 4D)",
       "pl": null,
       "cs": "Corrosion Resistant Cargo Rack (2D and 4D)"
@@ -4151,7 +4151,7 @@
       "es": null,
       "pt": "Estante de Mísseis Enzimáticos",
       "de": "Enzym Raketenrampe",
-      "fr": null,
+      "fr": "Batterie de Missiles Enzymatiques",
       "ru": "Блок энзимных ракет",
       "pl": null,
       "cs": "Enzyme Missile Rack"
@@ -4214,7 +4214,7 @@
       "es": "Núcleo de energía Guardián",
       "pt": "Gerador de Energia Guardian",
       "de": "Guardian-Kraftwerk",
-      "fr": "Générateur Hybride - Guardians",
+      "fr": "Générateur - Guardians",
       "ru": "Силовая установка стражей",
       "pl": null,
       "cs": "Guardian Hybrid Power Plant"
@@ -4223,7 +4223,7 @@
       "es": null,
       "pt": null,
       "de": "Meta-Legierung-Hüllenverstärkung",
-      "fr": "Renfort de coque en méta alliage",
+      "fr": "Renforcement de Coque en Méta-Alliage - Guardians",
       "ru": "Метасплавное усиление корпуса",
       "pl": null,
       "cs": "Meta Alloy Hull Reinforcement"
@@ -4232,7 +4232,7 @@
       "es": null,
       "pt": "Lançador de dardos de Liberação Remota (Fixa)",
       "de": "ferngesteuerter Flechettenwerfer (Fest)",
-      "fr": null,
+      "fr": "Lanceurs de Fléchettes Déclenchées à Distance (Fixe)",
       "ru": "Зенитная установка с дистанционным подрывом (фиксированное)",
       "pl": null,
       "cs": "Remote Release Flechette Launcher (Fixed)"
@@ -4241,7 +4241,7 @@
       "es": null,
       "pt": "Lançador de dardos de Liberação Remota (Torretada)",
       "de": "ferngesteuerter Flechettenwerfer (Turm)",
-      "fr": null,
+      "fr": "Lanceurs de Fléchettes Déclenchées à Distance (Tourelle)",
       "ru": "Зенитная установка с дистанционным подрывом (турель)",
       "pl": null,
       "cs": "Remote Release Flechette Launcher (Turreted)"
@@ -4250,7 +4250,7 @@
       "es": "Cañon de choque (Fijo)",
       "pt": "Canhão Elétrico (Fixa)",
       "de": "Schock Kanone (Fest)",
-      "fr": "Canon à éclat (Fixe)",
+      "fr": "Canon de choc (Fixe)",
       "ru": "Шоковое орудие (фиксированное)",
       "pl": null,
       "cs": "Shock Cannon (Fixed)"
@@ -4259,7 +4259,7 @@
       "es": "Cañon de choque (Guiado)",
       "pt": "Canhão Elétrico (Guiada)",
       "de": "Schock Kanone (Kardanisch)",
-      "fr": "Canon à éclat (Gimbal)",
+      "fr": "Canon de choc (PE Rotatif)",
       "ru": "Шоковое орудие (на карданной подвеске)",
       "pl": null,
       "cs": "Shock Cannon (Gimballed)"
@@ -4268,7 +4268,7 @@
       "es": "Cañon de choque (Torreta)",
       "pt": "Canhão Elétrico (Torretada)",
       "de": "Schock Kanone (Turm)",
-      "fr": "Canon à éclat (Tourelle)",
+      "fr": "Canon de choc (Tourelle)",
       "ru": "Шоковое орудие (турель)",
       "pl": null,
       "cs": "Shock Cannon (Turreted)"
@@ -4358,7 +4358,7 @@
       "es": "Impacto Inercial",
       "pt": null,
       "de": "Trägheitseinfluss",
-      "fr": null,
+      "fr": "Impact d'Inertie",
       "ru": "Инерционный удар",
       "pl": null,
       "cs": "Inertial Impact"
@@ -4367,7 +4367,7 @@
       "es": null,
       "pt": null,
       "de": "Phasensequenz",
-      "fr": null,
+      "fr": "Séquence de Phase",
       "ru": "Последовательность фазирования",
       "pl": null,
       "cs": "Phasing Sequence"
@@ -4376,7 +4376,7 @@
       "es": null,
       "pt": null,
       "de": "Mischungsbandbreite",
-      "fr": null,
+      "fr": "Spectre de Brouillage",
       "ru": "Отключающая сетка",
       "pl": null,
       "cs": "Scramble Spectrum"
@@ -5105,7 +5105,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Fragmentkanonenmunition",
-      "fr": null,
+      "fr": "Munitions Canon à Eclats - Guardians",
       "ru": "Боеприпасы для осколочных орудий стражей",
       "pl": null,
       "cs": "Munice do Guardian Shard Cannon"
@@ -5132,7 +5132,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Gausskanone (Fest) (Klasse: 2)",
-      "fr": "Canon Gauss Guardians (Fixe, Moyen)",
+      "fr": "Canon Gauss - Guardians (Fixe, Classe 2)",
       "ru": "Пушка Гаусса стражей (фиксированное, средний слот)",
       "pl": null,
       "cs": "Guardian Gauss Cannon (Fixed, Medium)"
@@ -5141,7 +5141,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Gausskanone (Fest) (Klasse: 1)",
-      "fr": "Canon Gauss Guardians (Fixe, Petit)",
+      "fr": "Canon Gauss - Guardians (Fixe, Classe 1)",
       "ru": "Пушка Гаусса стражей (фиксированное, малый слот)",
       "pl": null,
       "cs": "Guardian Gauss Cannon (Fixed, Small)"
@@ -5150,7 +5150,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Rumpfhüllenverstärkung",
-      "fr": "Renforcement de coque Guardians",
+      "fr": "Renforcement de Coque - Guardians",
       "ru": "Набор для усиления корпуса стражей",
       "pl": null,
       "cs": "Guardian Hull Reinforcement"
@@ -5159,7 +5159,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Modulverstärkung",
-      "fr": "Renforcement de modules Guardians",
+      "fr": "Renforcement de Modules - Guardians",
       "ru": "Набор для усиления модуля стражей",
       "pl": null,
       "cs": "Guardian Module Reinforcement"
@@ -5168,7 +5168,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Plasmalader (Fest) (Klasse: 3)",
-      "fr": "Chargeur Plasma Guardians (Fixe, Large)",
+      "fr": "Chargeur Plasma - Guardians (Fixe, Classe 3)",
       "ru": "Плазменная пушка стражей (фиксированное, большой слот)",
       "pl": null,
       "cs": "Guardian Plasma Charger (Fixed, Large)"
@@ -5177,7 +5177,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Plasmalader (Fest) (Klasse: 2)",
-      "fr": "Chargeur Plasma Guardians (Fixe, Moyen)",
+      "fr": "Chargeur Plasma - Guardians (Fixe, Classe 2)",
       "ru": "Плазменная пушка стражей (фиксированное, средний слот)",
       "pl": null,
       "cs": "Guardian Plasma Charger (Fixed, Medium)"
@@ -5186,7 +5186,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Plasmalader (Fest) (Klasse: 1)",
-      "fr": "Chargeur Plasma Guardians (Fixe, Petit)",
+      "fr": "Chargeur Plasma - Guardians (Fixe, Classe 1)",
       "ru": "Плазменная пушка стражей (фиксированное, малый слот)",
       "pl": null,
       "cs": "Guardian Plasma Charger (Fixed, Small)"
@@ -5195,7 +5195,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Plasmalader (Turm) (Klasse: 3)",
-      "fr": "Chargeur Plasma Guardians (Tourelle, Large)",
+      "fr": "Chargeur Plasma - Guardians (Tourelle, Classe 3)",
       "ru": "Плазменная пушка стражей (турель, большой слот)",
       "pl": null,
       "cs": "Guardian Plasma Charger (Turreted, Large)"
@@ -5204,7 +5204,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Plasmalader (Turm) (Klasse: 2)",
-      "fr": "Chargeur Plasma Guardians (Tourelle, Moyen)",
+      "fr": "Chargeur Plasma - Guardians (Tourelle, Classe 2)",
       "ru": "Плазменная пушка стражей (турель, средний слот)",
       "pl": null,
       "cs": "Guardian Plasma Charger (Turreted, Medium)"
@@ -5213,7 +5213,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Plasmalader (Turm) (Klasse: 1)",
-      "fr": "Chargeur Plasma Guardians (Tourelle, Petit)",
+      "fr": "Chargeur Plasma - Guardians (Tourelle, Classe 1)",
       "ru": "Плазменная пушка стражей (турель, малый слот)",
       "pl": null,
       "cs": "Guardian Plasma Charger (Turreted, Small)"
@@ -5222,7 +5222,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Frameshiftantrieb-Booster",
-      "fr": "Survolteur FSD Guardians",
+      "fr": "Survolteur FSD - Guardians",
       "ru": "Ускоритель FSD стражей",
       "pl": null,
       "cs": "Guardian FSD Booster"
@@ -5231,7 +5231,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Energieverteiler",
-      "fr": "Répartiteur de puissance Guardians",
+      "fr": "Répartiteur de Puissance - Guardians",
       "ru": "Распределитель питания стражей",
       "pl": null,
       "cs": "Guardian Power Distributor"
@@ -5240,7 +5240,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Fragmentkanone (Fest) (Klasse: 3)",
-      "fr": null,
+      "fr": "Canons à Eclats - Guardians (Fixe, Classe 3)",
       "ru": "Осколочное орудие стражей (фиксированное, большой слот)",
       "pl": null,
       "cs": "Guardian Shard Cannon (Fixed, Large)"
@@ -5249,7 +5249,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Fragmentkanone (Fest) (Klasse: 2)",
-      "fr": null,
+      "fr": "Canons à Eclats - Guardians (Fixe, Classe 2)",
       "ru": "Осколочное орудие стражей (фиксированное, средний слот)",
       "pl": null,
       "cs": "Guardian Shard Cannon (Fixed, Medium)"
@@ -5258,7 +5258,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Fragmentkanone (Fest) (Klasse: 1)",
-      "fr": null,
+      "fr": "Canons à Eclats - Guardians (Fixe, Classe 1)",
       "ru": "Осколочное орудие стражей (фиксированное, малый слот)",
       "pl": null,
       "cs": "Guardian Shard Cannon (Fixed, Small)"
@@ -5267,7 +5267,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Fragmentkanone (Turm) (Klasse: 3)",
-      "fr": null,
+      "fr": "Canons à Eclats - Guardians (Tourelle, Classe 3)",
       "ru": "Осколочное орудие стражей (турель, большой слот)",
       "pl": null,
       "cs": "Guardian Shard Cannon (Turreted, Large)"
@@ -5276,7 +5276,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Fragmentkanone (Turm) (Klasse: 2)",
-      "fr": null,
+      "fr": "Canons à Eclats - Guardians (Tourelle, Classe 2)",
       "ru": "Осколочное орудие стражей (турель, средний слот)",
       "pl": null,
       "cs": "Guardian Shard Cannon (Turreted, Medium)"
@@ -5285,7 +5285,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Fragmentkanone (Turm) (Klasse: 1)",
-      "fr": null,
+      "fr": "Canons à Eclats - Guardians (Tourelle, Classe 1)",
       "ru": "Осколочное орудие стражей (турель, малый слот)",
       "pl": null,
       "cs": "Guardian Shard Cannon (Turreted, Small)"
@@ -5294,7 +5294,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Schildverstärkung",
-      "fr": "Renforcement de bouclier Guardian",
+      "fr": "Renforcement de Bouclier - Guardians",
       "ru": "Набор для усиления щита стражей",
       "pl": null,
       "cs": "Guardian Shield Reinforcement"
@@ -5303,7 +5303,7 @@
       "es": null,
       "pt": null,
       "de": "Javelin (Fighter)",
-      "fr": "Javelin (chasseur)",
+      "fr": "Javelin (Chasseur)",
       "ru": "Javelin (Истребитель)",
       "pl": null,
       "cs": "Javelin (Fighter)"
@@ -5312,7 +5312,7 @@
       "es": null,
       "pt": null,
       "de": "Lance (Fighter)",
-      "fr": "Lance (chasseur)",
+      "fr": "Lance (Chasseur)",
       "ru": "Lance (Истребитель)",
       "pl": null,
       "cs": "Lance (Fighter)"
@@ -5321,7 +5321,7 @@
       "es": null,
       "pt": null,
       "de": "Trident (Fighter)",
-      "fr": "Trident (chasseur)",
+      "fr": "Trident (Chasseur)",
       "ru": "Trident (Истребитель)",
       "pl": null,
       "cs": "Trident (Fighter)"
@@ -5330,7 +5330,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Fixe, Large)",
+      "fr": "Canon de Choc (Fixe, Classe 3)",
       "ru": "Осколочное орудие стражей (фиксированное, большой слот)",
       "pl": null,
       "cs": "Shock Cannon (Fixed, Large)"
@@ -5339,7 +5339,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Fixe, Moyen)",
+      "fr": "Canon de Choc (Fixe, Classe 2)",
       "ru": "Шоковое орудие (фиксированное, средний слот)",
       "pl": null,
       "cs": "Shock Cannon (Fixed, Medium)"
@@ -5348,7 +5348,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Fixe, Petit)",
+      "fr": "Canon de Choc (Fixe, Classe 1)",
       "ru": "Шоковое орудие (фиксированное, малый слот)",
       "pl": null,
       "cs": "Shock Cannon (Fixed, Small)"
@@ -5357,7 +5357,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Gimbal, Large)",
+      "fr": "Canon de Choc (PE Rotatif, Classe 3)",
       "ru": "Шоковое орудие (на карданной подвеске, большой слот)",
       "pl": null,
       "cs": "Shock Cannon (Gimballed, Large)"
@@ -5366,7 +5366,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Gimbal, Moyen)",
+      "fr": "Canon de Choc (PE Rotatif, Classe 2)",
       "ru": "Шоковое орудие (на карданной подвеске, средний слот)",
       "pl": null,
       "cs": "Shock Cannon (Gimballed, Medium)"
@@ -5375,7 +5375,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Gimbal, Petit)",
+      "fr": "Canon de Choc (PE Rotatif, Classe 1)",
       "ru": "Шоковое орудие (на карданной подвеске, малый слот)",
       "pl": null,
       "cs": "Shock Cannon (Gimballed, Small)"
@@ -5384,7 +5384,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Tourelle, Large)",
+      "fr": "Canon de Choc (Tourelle, Classe 3)",
       "ru": "Шоковое орудие (турель, большой слот)",
       "pl": null,
       "cs": "Shock Cannon (Turreted, Large)"
@@ -5393,7 +5393,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Tourelle, Moyen)",
+      "fr": "Canon de Choc (Tourelle, Classe 2)",
       "ru": "Шоковое орудие (турель, средний слот)",
       "pl": null,
       "cs": "Shock Cannon (Turreted, Medium)"
@@ -5402,7 +5402,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": "Canon à éclat (Tourelle, Petit)",
+      "fr": "Canon de Choc (Tourelle, Classe 1)",
       "ru": "Шоковое орудие (турель, малый слот)",
       "pl": null,
       "cs": "Shock Cannon (Turreted, Small)"
@@ -5411,7 +5411,7 @@
       "es": null,
       "pt": null,
       "de": "Wert dieses Shiffs",
-      "fr": "Valeur des vaisseaux",
+      "fr": "Valeur du Vaisseau",
       "ru": "Стоимость корабля:",
       "pl": null,
       "cs": "Cena lodi:"
@@ -5447,7 +5447,7 @@
       "es": null,
       "pt": null,
       "de": "Fracht Historie (Benötigt API)",
-      "fr": "Historique du cargo",
+      "fr": "Historique du cargo (API Nécessaire)",
       "ru": "История грузов (необходимо API)",
       "pl": null,
       "cs": "Historie nákladu (vyžaduje API)"
