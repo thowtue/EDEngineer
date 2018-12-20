@@ -23,7 +23,7 @@
     "fr": {
       "TwoLetterISOLanguageName": "fr",
       "Name": "Français",
-      "NotReadyWarning": "Cette traduction est incomplète! Si vous la sélectionnez, seules certaines parties de l'application seront traduites. Tout ce qui n'a pas encore été traduit sera affiché en anglais."
+      "NotReadyWarning": "Cette traduction est incomplète! Si vous la sélectionnez, seules certaines parties (pourcentage indiqué) de l'application seront traduites. Tout ce qui n'a pas encore été traduit sera affiché en anglais."
     },
     "ru": {
       "TwoLetterISOLanguageName": "ru",
