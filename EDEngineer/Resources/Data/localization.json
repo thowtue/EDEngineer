@@ -5051,7 +5051,7 @@
       "es": "Munición AX de calibre pequeño",
       "pt": null,
       "de": "Kleinkalibrige Munition (AX)",
-      "fr": null,
+      "fr": "Munitions Anti-Xeno Petit Calibre",
       "ru": "Мелкокалиберные боеприпасы АИ",
       "pl": null,
       "cs": "Munice malé ráže do AX zbraní (AX MC)"
@@ -5078,7 +5078,7 @@
       "es": null,
       "pt": null,
       "de": "Munition für Ferngezündete Flak (AX)",
-      "fr": null,
+      "fr": "Munitions Anti-Xeno Flak à Distance",
       "ru": "Зенитные снаряды с дистанционным подрывом АИ",
       "pl": null,
       "cs": "Munice do AX Remote Flaku"
@@ -5087,7 +5087,7 @@
       "es": null,
       "pt": null,
       "de": "Enzymraketenwerfermunition",
-      "fr": null,
+      "fr": "Munitions de Batterie de Missiles Enzymatiques",
       "ru": "Боеприпасы для энзимных ракетных установок",
       "pl": null,
       "cs": "Munice do Enzyme Missile Launcher"
@@ -5096,7 +5096,7 @@
       "es": null,
       "pt": null,
       "de": "Flechettewerfermunition",
-      "fr": null,
+      "fr": "Munitions de Lanceur de Fléchettes",
       "ru": "Стреловидные боеприпасы",
       "pl": null,
       "cs": "Munice do Flechette Launcher"
@@ -5114,7 +5114,7 @@
       "es": null,
       "pt": null,
       "de": "Explosivmunition (AX)",
-      "fr": null,
+      "fr": "Munitions Anti-Xeno Explosives",
       "ru": "Взрывчатые боеприпасы АИ",
       "pl": null,
       "cs": "Explozivní munice do AX zbraní (rakety)"
