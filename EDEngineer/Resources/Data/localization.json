@@ -4691,7 +4691,7 @@
       "es": null,
       "pt": null,
       "de": "Wärmeverteilung",
-      "fr": "Dissipation thermique",
+      "fr": "Répartition thermique",
       "ru": "Рассеивание тепла",
       "pl": null,
       "cs": "Thermal Spread"
@@ -4700,7 +4700,7 @@
       "es": null,
       "pt": null,
       "de": "monströs",
-      "fr": null,
+      "fr": "Modèle XXL",
       "ru": "Монстрация",
       "pl": null,
       "cs": "Monstered"
@@ -4709,7 +4709,7 @@
       "es": "Blindaje Angulado",
       "pt": null,
       "de": "Abgewinkelte Beschichtung",
-      "fr": null,
+      "fr": "Blindage Anguleux",
       "ru": "Угловая броня",
       "pl": null,
       "cs": "Angled Plating"
@@ -4718,7 +4718,7 @@
       "es": "Blindaje Compuesto",
       "pt": null,
       "de": "Mehrschichtige Beschichtung",
-      "fr": null,
+      "fr": "Blindage à Couches",
       "ru": "Многослойная броня",
       "pl": null,
       "cs": "Layered Plating"
@@ -4727,7 +4727,7 @@
       "es": "Blindaje Reflectante",
       "pt": null,
       "de": "Reflektierende Beschichtung",
-      "fr": null,
+      "fr": "Blindage Réfléchissant",
       "ru": "Отражающая броня",
       "pl": null,
       "cs": "Reflective Plating"
@@ -4736,7 +4736,7 @@
       "es": "Blindaje Profundo",
       "pt": null,
       "de": "Tiefenüberzug",
-      "fr": null,
+      "fr": "Blindage Epais",
       "ru": "Утолщенная броня",
       "pl": null,
       "cs": "Deep Plating"
@@ -4745,7 +4745,7 @@
       "es": null,
       "pt": null,
       "de": "Boss-Zellen",
-      "fr": null,
+      "fr": "Cellules XXL",
       "ru": "Босс-ячейки",
       "pl": null,
       "cs": "Boss Cells"
@@ -4754,7 +4754,7 @@
       "es": "Celdas de Reciclaje",
       "pt": null,
       "de": "Recycling-Zellen",
-      "fr": null,
+      "fr": "Recyclage des Cellules",
       "ru": "Рециркуляционные ячейки",
       "pl": null,
       "cs": "Recycling Cells"
@@ -4763,7 +4763,7 @@
       "es": null,
       "pt": null,
       "de": "Kraftsperre",
-      "fr": null,
+      "fr": "Blocage de Force",
       "ru": "Усиленная блокировка",
       "pl": null,
       "cs": "Force Block"
@@ -4772,7 +4772,7 @@
       "es": null,
       "pt": null,
       "de": "Wärmesperre",
-      "fr": null,
+      "fr": "Blocage Thermique",
       "ru": "Блокировка тепла",
       "pl": null,
       "cs": "Thermo Block"
@@ -4781,7 +4781,7 @@
       "es": null,
       "pt": null,
       "de": "Explosionssperre",
-      "fr": null,
+      "fr": "Blocage d'Explosion",
       "ru": "Блокировка взрыва",
       "pl": null,
       "cs": "Blast Block"
@@ -4790,7 +4790,7 @@
       "es": "Super Condensador",
       "pt": null,
       "de": "Superkondensatoren",
-      "fr": null,
+      "fr": "Super COndensateurs",
       "ru": "Суперконденсатор",
       "pl": null,
       "cs": "Super Capacitor"
@@ -4799,7 +4799,7 @@
       "es": null,
       "pt": null,
       "de": "Hi-cap",
-      "fr": null,
+      "fr": "Puissance Renforcée",
       "ru": "Высокая емкость",
       "pl": null,
       "cs": "Hi-cap"
@@ -4808,7 +4808,7 @@
       "es": null,
       "pt": null,
       "de": "Mehrfachgewebe",
-      "fr": null,
+      "fr": "Filaments Multiples",
       "ru": "Мультипрошивка",
       "pl": null,
       "cs": "Multi-weave"
@@ -4817,7 +4817,7 @@
       "es": "Carga Rápida",
       "pt": null,
       "de": "Schnelllader",
-      "fr": null,
+      "fr": "Chargement Rapide",
       "ru": "Быстрый заряд",
       "pl": null,
       "cs": "Fast Charge"
@@ -4826,7 +4826,7 @@
       "es": null,
       "pt": null,
       "de": "Lo-draw",
-      "fr": null,
+      "fr": "Consommation Réduite",
       "ru": "Пониженное потребление",
       "pl": null,
       "cs": "Lo-draw"
@@ -4835,7 +4835,7 @@
       "es": "Carga Profunda",
       "pt": null,
       "de": "Tiefenladung",
-      "fr": null,
+      "fr": "Charge Profonde",
       "ru": "Заряд повышенной мощности",
       "pl": null,
       "cs": "Deep Charge"
@@ -4844,7 +4844,7 @@
       "es": "Gestor de Masa",
       "pt": null,
       "de": "Massemanager",
-      "fr": null,
+      "fr": "Gestionnaire de Masse",
       "ru": "Распределитель гравитации",
       "pl": null,
       "cs": "Mass Manager"
@@ -4853,7 +4853,7 @@
       "es": "Distribuidores de Empuje",
       "pt": null,
       "de": "Antriebsverteiler",
-      "fr": null,
+      "fr": "Répartiteurs de réacteurs",
       "ru": "Распределители тяги",
       "pl": null,
       "cs": "Drive Distributors"
@@ -4862,7 +4862,7 @@
       "es": "Impulsores de Arrastre",
       "pt": null,
       "de": "Drag Antriebe",
-      "fr": null,
+      "fr": "Débridage des réacteurs",
       "ru": "Ускорители",
       "pl": null,
       "cs": "Drag Drives"
@@ -4871,7 +4871,7 @@
       "es": "Superconductores",
       "pt": null,
       "de": "Superleiter",
-      "fr": null,
+      "fr": "Super Conduits",
       "ru": "Сверхпроводники",
       "pl": null,
       "cs": "Super Conduits"
@@ -4880,7 +4880,7 @@
       "es": "Condensador de Cluster",
       "pt": null,
       "de": "Cluster Kondensator",
-      "fr": null,
+      "fr": "Batterie de Condensateurs",
       "ru": "Кассетный конденсатор",
       "pl": null,
       "cs": "Cluster Capacitor"
